@@ -1,3 +1,9 @@
+# Thunderstruck BMS Controller
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/aranji/thunderstruck_bms)
+![GitHub](https://img.shields.io/github/license/aranji/thunderstruck_bms)
+
+
 # About
 This lib provides API to access the Thunderstruck BMS and Charge Controller over CAN.
 
